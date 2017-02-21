@@ -10,10 +10,15 @@
     "Contoso",
     "WebCalculator"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gontival/ContosoWeb"
+  },
   "author": "Joe Levant",
   "license": "ISC",
   "dependencies": {
     "formidable":"1.1.1",
-    "express":"4.14.1"
+    "express": "4.14.1",
+    "nodemailer": "3.1.3"
   }
 }
